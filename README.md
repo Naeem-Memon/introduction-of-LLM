@@ -1,4 +1,4 @@
-# introduction-of-LLM
+# introduction-to-LLM
 ### Introduction to Large Language Models (LLMs)
 
 Large Language Models (LLMs) are a class of artificial intelligence models designed to understand, generate, and process human language at a sophisticated level. These models are trained on vast amounts of textual data, leveraging machine learning techniques, particularly the transformer architecture, to learn patterns, relationships, and structures in language. LLMs have become the foundation for a wide range of applications, including chatbots, translation services, content generation, and even code writing.
